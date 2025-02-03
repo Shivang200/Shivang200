@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivang Verma</h1>
 <h3 align="center">An undergraduate who is Passionate about continuous growth 📈 and trying to simplify complex things</h3>
 
-- 🌱 I’m currently learning **Aws cloud and mern stack**
+- 🌱 I’m currently learning **Github actions and mern stack**
 
 - 📫 How to reach me **shivangverma43@gmail.com**
 
